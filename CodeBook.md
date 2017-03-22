@@ -61,4 +61,6 @@ The transformations made in the original variables names are:
 - `anglet` was changed to `angleTime`
 - `BodyBody` was corrected to `Body` because it appears to be an typo.
 
-The `run_analysis.R` uses two packages, `sqldf` and `reshape2`
+The `run_analysis.R` uses two packages, `sqldf` and `reshape2`  
+
+To run this script, the "UCI HAR Dataset" directory must be in the same directory as the script.
